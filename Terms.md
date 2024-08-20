@@ -44,8 +44,15 @@ Engage in any illegal, unethical, or unauthorized activities.
 
 7.2 Any disputes arising out of or related to these Terms or the use of the Tools shall be resolved in the courts of [Your Jurisdiction].
 
-## 8. Changes to the Terms
+## 8. Source Code
+8.1 You can create your own version of kidz, but if nothing is changed you must keep it to your self and don't upload it.
+
+8.2 If you apply changes and upgrade Kidz tools, you must include visible credits inside your project and your project must be open source
+
+8.3 You are NOT allowed to create a modified version of kidz that include malware and distribute it, I am not responsible for anything if you get in trouble.
+
+## 9. Changes to the Terms
 8.1 The Developer reserves the right to modify or update these Terms at any time without prior notice. Your continued use of the Tools after any such changes constitutes your acceptance of the new Terms.
 
-## 9. Contact Information
+## 10. Contact Information
 9.1 If you have any questions or concerns about these Terms, please contact me [here](https://discord.com/invite/vS28BFPysH).
